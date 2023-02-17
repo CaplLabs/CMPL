@@ -1,5 +1,5 @@
 ![ alt text ](https://img.shields.io/github/downloads/CmplLanguage/CMPL/total?label=Python&logo=Python&style=plastic)
-
+![ alt text ](https://img.shields.io/discord/1075444052742393897?label=Discord&logo=Discord&logoColor=%232E9AFE&style=plastic)
 
 # CMPL
 It is a language that natively supports mathematics and physics and is a functional programming language.
