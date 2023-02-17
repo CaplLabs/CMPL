@@ -1,4 +1,3 @@
-3776AB
 # CMPL
 It is a language that natively supports mathematics and physics and is a functional programming language.
 
