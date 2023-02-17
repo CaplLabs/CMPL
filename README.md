@@ -1,4 +1,4 @@
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#3776AB</font></font>
+3776AB
 # CMPL
 It is a language that natively supports mathematics and physics and is a functional programming language.
 
