@@ -1,4 +1,4 @@
-![ alt text ](https://img.shields.io/github/downloads/CmplLanguage/CMPL/total?label=Python&logo=Python&style=plastic)!
+![ alt text ](https://img.shields.io/github/downloads/CmplLanguage/CMPL/total?label=Python&logo=Python&style=plastic)
 
 
 # CMPL
