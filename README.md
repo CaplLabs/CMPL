@@ -1,4 +1,5 @@
 ![ alt text ](https://img.shields.io/github/downloads/CmplLanguage/CMPL/total?label=Python&logo=Python&style=plastic)
+![ alt text ](https://img.shields.io/amo/dw/LP10Mod?label=c%2B%2B&logo=c%2B%2B&logoColor=skyblue&style=plastic)
 ![ alt text ](https://img.shields.io/discord/1075442028692906094?color=b&label=Discord&logo=Discord&logoColor=%232E9AFE&style=plastic)
 
 # CMPL
