@@ -1,4 +1,4 @@
-!lexer.py
+#lexer.py
 DIGITS = '123456789'
 
 class Error:
