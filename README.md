@@ -10,5 +10,5 @@ CMPL is a programming language that can be programmed with simple codes and can 
 
 # Hello, World!
 ```
-Print('Hello, World!');
+CALL Print('Hello, World!');
 ```
